@@ -1,0 +1,5 @@
+outs:
+- md5: 7be7f6bb1a46e836f57a9e1e777ef2cf
+  size: 8976
+  hash: md5
+  path: knn_model_v1.pkl
